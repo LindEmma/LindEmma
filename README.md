@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LindEmma
+- 👋 Hi, I’m Emma
 - 💐 Florist going programmer
 - 🌱 I’m currently learning C# and .NET
 
